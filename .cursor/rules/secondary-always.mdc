@@ -1,0 +1,8 @@
+---
+description: Secondary repo rule that always applies
+alwaysApply: true
+---
+
+# Secondary repo rule (always applied)
+
+Distinctive marker: SECONDARY-RULE-ALWAYS-2d8f

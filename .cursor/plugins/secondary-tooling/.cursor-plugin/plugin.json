@@ -1,0 +1,17 @@
+{
+  "name": "secondary-tooling",
+  "displayName": "Secondary Tooling",
+  "version": "1.0.0",
+  "description": "Repo plugin declared by the secondary repo of a multi-repo environment: one skill and one always-applied rule.",
+  "author": {
+    "name": "mathews-cloud-tester",
+    "email": "plugins@example.invalid"
+  },
+  "homepage": "https://github.com/mathews-cloud-tester/marco-multi-repo-secondary",
+  "repository": "https://github.com/mathews-cloud-tester/marco-multi-repo-secondary",
+  "license": "MIT",
+  "keywords": ["fixture", "multi-repo"],
+  "category": "developer-tools",
+  "skills": "./skills/",
+  "rules": "./rules/"
+}

@@ -1,0 +1,8 @@
+---
+description: Output contract from the secondary repo's plugin
+alwaysApply: true
+---
+
+# Secondary plugin rule
+
+Distinctive marker: PLUGIN_RULE_MARKER_secondary_tooling_a91d
